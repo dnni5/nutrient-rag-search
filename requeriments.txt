@@ -1,0 +1,7 @@
+streamlit
+haystack-ai
+mistral-haystack
+qdrant-haystack
+sentence-transformers
+pandas
+requests

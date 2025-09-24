@@ -1,0 +1,40 @@
+# Cache y datos sensibles (de tu versión original)
+*.pkl
+embeddings_cache_*.pkl
+.env
+__pycache__/
+*.pyc
+articles/pdfs/
+.streamlit/secrets.toml
+
+# Sistema (archivos ocultos de OS)
+.DS_Store
+Thumbs.db
+
+# Esenciales para Python (compilados y builds)
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+build/
+dist/
+*.egg-info/
+MANIFEST
+
+# Entornos virtuales (útil si usas venv)
+.venv
+env/
+venv/
+ENV/
+
+# Tests y coverage (si usas pytest o similar)
+.pytest_cache/
+.tox/
+.coverage
+.cache
+
+# Jupyter si usas notebooks
+.ipynb_checkpoints
+
+# Logs y temporales
+*.log
