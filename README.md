@@ -1,2 +1,2 @@
 # nutrient-rag-search
-RAG system for nutrition research papers
+Sistema RAG para artículos científicos sobre nutrición
